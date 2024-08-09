@@ -1,17 +1,3 @@
----
-title: "ACTL1101 Assignment Part A"
-author: "Pranav Sampath"
-date: "2024 T2"
-output:
-  pdf_document: default
-  word_document: default
-  html_document:
-    df_print: paged
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Algorithmic Trading Strategy
 
