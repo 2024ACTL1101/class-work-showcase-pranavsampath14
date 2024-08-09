@@ -1,4 +1,3 @@
-
 ## Algorithmic Trading Strategy
 
 ## Introduction
